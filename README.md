@@ -1,4 +1,16 @@
-## Hi there 👋
+## Welcome to Anderson Bernal's profile 👋💻
+
+I'm a software development
+
+## About me
+
+- **Full name** Anderson Bernal
+- **Location** Bogotá
+
+## Conctact me
+- LinkedIn: [Andersontbernal](https://www.linkedin.com/in/anderson-bernal-2aa473184/)
+
+
 
 <!--
 **andersontbernal/andersontbernal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
