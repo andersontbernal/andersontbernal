@@ -5,7 +5,9 @@ I'm a software development
 ## About me
 
 - **Full name** Anderson Bernal
-- **Location** Bogotá
+- **Location** Bogotá - Colombia
+
+## Carrer profile
 
 ## Conctact me
 - LinkedIn: [Andersontbernal](https://www.linkedin.com/in/anderson-bernal-2aa473184/)
