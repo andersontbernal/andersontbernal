@@ -54,8 +54,4 @@ contact:
   email: "andersonbernal7@gmail.com"
 
 
-$ git add .
 
-$ git commit -m "mi perfil"
-
-$ git push origin master
