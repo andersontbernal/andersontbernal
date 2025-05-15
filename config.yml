@@ -52,3 +52,10 @@ skills:
 contact:
   linkedin: "https://www.linkedin.com/in/anderson-bernal-2aa473184/"
   email: "andersonbernal7@gmail.com"
+
+
+$ git add .
+
+$ git commit -m "mi perfil"
+
+$ git push origin master
