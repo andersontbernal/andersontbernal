@@ -1,2 +1,54 @@
 template: "online-cv"
 skin: "blue"
+
+basic_info:
+  name: "Anderson Bernal Téllez"
+  title: "Fullstack developer certificated by 4Geeks Academy Spain 🇪🇸 🌐"
+  birth_year: 1993
+  origin: "Colombia"
+  description: >
+    I’m currently diving deep into Fullstack Development at 4Geeks Academy Spain.
+    With over a decade of experience in customer service and property management,
+    I bring a strong work ethic, adaptability, and a passion for learning new technologies.
+    I enjoy creating practical solutions and continuously improving my skills to take on new challenges.
+
+education:
+  - degree: "Fullstack Developer Bootcamp"
+    institution: "4Geeks Academy Spain"
+    end_date: 2025
+  - degree: "Advanced General English & IELTS preparation"
+    institution: "Imagine Education Australia"
+    end_date: 2024
+    level: "Advanced - B2"
+  - degree: "Bachelor's in Hotel and Tourism Management"
+    institution: "Corporacion nacional unificada - CUN"
+    end_date: 2017
+
+work_experience:
+  - position: "Property Manager"
+    company: "Livinn Colombia SAS"
+    description: "Managed property portfolios in real estate area and tenant relationships, budgeting and operations proficiency."
+    start_date: 2017
+    end_date: 2023
+
+projects:
+  - title: "Instagram post"
+    link: "https://github.com/4GeeksAcademy/andersontbernal-instagram-post"
+    description: "Instagram-style layout built with HTML5 and CSS3 to practice core layout and styling technique."
+  - title: "Instagram feed"
+    link: "https://github.com/4GeeksAcademy/andersontbernal-my-project-instagramphotofeed"
+    description: "Responsive Instagram-style feed using HTML/CSS/Bootstrap."
+  - title: "HTML5 Payment Form"
+    link: "https://github.com/4GeeksAcademy/FormHTML5-Andersontbernal"
+    description: "Accessible payment form built with semantic HTML and Bootstrap."
+
+skills:
+  - HTML/CSS
+  - Bootstrap
+  - HTML Forms
+  - Command Line
+  - Git & GitHub
+
+contact:
+  linkedin: "https://www.linkedin.com/in/anderson-bernal-2aa473184/"
+  email: "andersonbernal7@gmail.com"
