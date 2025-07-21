@@ -1,4 +1,7 @@
-## Anderson Bernal - Fullstack developer certificated by 4Geeks Academy Spain 🇪🇸 🌐
+
+# Anderson Bernal
+
+Hi, I'm Anderson Bernal Téllez, born in 1993 and originally from Colombia. I’m currently diving deep into Fullstack Development at 4Geeks Academy Spain. With over a decade of experience in customer service and property management, I bring a strong work ethic, adaptability, and a passion for learning new technologies. I enjoy creating practical solutions and continuously improving my skills to take on new challenges.## Anderson Bernal - Fullstack developer certificated by 4Geeks Academy Spain 🇪🇸 🌐
 
 
 Hi, I'm Anderson Bernal Téllez, born in 1993 and originally  from Colombia. I’m currently diving deep into Fullstack Development at 4Geeks Academy Spain. With over a decade of experience in customer service and property management, I bring a strong work ethic, adaptability, and a passion for learning new technologies. I enjoy creating practical solutions and continuously improving my skills to take on new challenges.
@@ -46,23 +49,4 @@ ______________________________________________________
 - LinkedIn: [Andersontbernal](https://www.linkedin.com/in/anderson-bernal-2aa473184/)
 - Email: andersonbernal7@gmail.com 
 
-<!--basic_info: Información personal.
-education: Estudios previos.
-experiences: Trabajos anteriores.
-projects: Describe los proyectos que has creado como desarrollador.
-skills: Enumera tus habilidades con un porcentaje de experiencia.-
 
-<!--
-**andersontbernal/andersontbernal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
