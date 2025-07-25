@@ -43,6 +43,8 @@ Gestión de inmuebles, relaciones con arrendatarios, manejo de presupuestos, y o
 - 📦 Git & GitHub  
 - 🧩 HTML Forms Semánticos  
 - 💻 Línea de comandos
+- 💡 React
+- 📦 APIS
 
 ---
 
