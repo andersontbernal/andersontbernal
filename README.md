@@ -1,52 +1,53 @@
+# 👋 ¡Hola! Soy Anderson Bernal Téllez 🇨🇴
 
-# Anderson Bernal
+### 💻 Fullstack Developer | Property Manager | Lifelong Learner  
+**Certificado por 4Geeks Academy España | Ex Imagine Education Australia**
 
-Hi, I'm Anderson Bernal Téllez, born in 1993 and originally from Colombia. I’m currently diving deep into Fullstack Development at 4Geeks Academy Spain. With over a decade of experience in customer service and property management, I bring a strong work ethic, adaptability, and a passion for learning new technologies. I enjoy creating practical solutions and continuously improving my skills to take on new challenges.## Anderson Bernal - Fullstack developer certificated by 4Geeks Academy Spain 🇪🇸 🌐
+---
 
+### 🚀 Sobre mí
 
-Hi, I'm Anderson Bernal Téllez, born in 1993 and originally  from Colombia. I’m currently diving deep into Fullstack Development at 4Geeks Academy Spain. With over a decade of experience in customer service and property management, I bring a strong work ethic, adaptability, and a passion for learning new technologies. I enjoy creating practical solutions and continuously improving my skills to take on new challenges.
+Soy un apasionado desarrollador **Fullstack** en formación, con más de **10 años de experiencia** en atención al cliente y **gestión de propiedades**. Me caracteriza una fuerte ética laboral, mentalidad adaptable y una obsesión por aprender y aplicar nuevas tecnologías para construir soluciones reales.
 
-## Education 💻
+> 🧠 *"Mi objetivo es fusionar la tecnología con la experiencia del mundo real para crear productos que realmente importen."*
 
-- Fullstack Developer Bootcamp — 4Geeks Academy Spain
-  - Academy: 4Geeks
-  - End date: 2025
-______________________________________________________
+---
 
-- Advanced General english & IELTS preparation 📖
-  - Academy: Imagine Education Australia
-  - End date: 2024
-  - Level: Advanced - B2
-______________________________________________________  
-- Degree: Bachelor's in Hotel and Tourism Management
-  - Institution: Corporacion nacional unificada - CUN
-  - End date: 2017
+### 🎓 Educación
 
-## Work Experience 👨‍💼
-- Position: Property Manager
-- Company: Livinn Colombia SAS
-- Description: Managed property portfolios in real state area and tenant relationships, budgeting and operations proficency.
-- Start date: "2017"
-- End date: "2023"
+- 🧠 **Fullstack Developer Bootcamp**  
+  _4Geeks Academy - España_  
+  `Finaliza en 2025`
 
-## Projects: 🖱️
-  
-  - Title: [Instagram post](https://github.com/4GeeksAcademy/andersontbernal-instagram-post)
-    description: "Instagram-style layout built with HTML5 and CSS3 to practice core layout and styling technique"
-  - Title: [Instagram feed ](https://github.com/4GeeksAcademy/andersontbernal-my-project-instagramphotofeed)
-    description: "Responsive Instagram-style feed using HTML/CSS/Bootstrap."    
-  - Title: [HTML5 Payment Form](https://github.com/4GeeksAcademy/FormHTML5-Andersontbernal)
-    description: "Accessible payment form built with semantic HTML and Bootstrap."
+- 🇦🇺 **Inglés General Avanzado & IELTS Prep**  
+  _Imagine Education Australia_  
+  `Finalizado en 2024 · Nivel B2 avanzado`
 
-## Skills: 💣
-  - HTML/CSS
-  - Bootstrap
-  - HTML Forms
-  - Command Line
-  - Git & GitHub
+- 🏨 **Administración Hotelera y Turística**  
+  _Corporación Nacional Unificada - CUN (Colombia)_  
+  `Graduado en 2017`
 
-## Conctact me 🤝
-- LinkedIn: [Andersontbernal](https://www.linkedin.com/in/anderson-bernal-2aa473184/)
-- Email: andersonbernal7@gmail.com 
+---
 
+### 🧑‍💼 Experiencia Laboral
 
+**🏢 Property Manager**  
+_Livinn Colombia SAS (2017 - 2023)_  
+Gestión de inmuebles, relaciones con arrendatarios, manejo de presupuestos, y operaciones inmobiliarias.
+
+---
+
+### 🛠️ Habilidades Técnicas
+
+- 💡 HTML5 / CSS3 / Bootstrap  
+- 📦 Git & GitHub  
+- 🧩 HTML Forms Semánticos  
+- 💻 Línea de comandos
+
+---
+
+### 🧪 Proyectos Destacados
+
+| Proyecto | Descripción |
+|---------|-------------|
+| [📸 Instagram Post](https://github.com/4GeeksAcademy/andersontbernal-instagram-post) | Maquetación tipo Instagram con HTML
