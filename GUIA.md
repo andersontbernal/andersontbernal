@@ -1,33 +1,4 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <title>Arquitectura Modular en Proyectos Web</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', sans-serif;
-      background-color: #f9f9f9;
-      color: #222;
-      margin: 2rem;
-      line-height: 1.6;
-    }
-    h1, h2, h3 {
-      color: #002855;
-    }
-    code {
-      background-color: #eaeaea;
-      padding: 0.2em 0.4em;
-      border-radius: 4px;
-      font-family: monospace;
-    }
-    .highlight {
-      background: #e0f7fa;
-      border-left: 4px solid #00acc1;
-      padding: 1rem;
-      margin: 1rem 0;
-    }
-  </style>
-</head>
+
 <body>
 
   <h1>🧠 Arquitectura Modular y Separación de Lógica en Proyectos Web</h1>
@@ -88,7 +59,8 @@ src/
   <h2>🧪 Resultado Esperado</h2>
   <p>Una aplicación web organizada, funcional y fácil de mantener, donde cada módulo puede ser trabajado, testeado o escalado de manera independiente.</p>
 
-  <h2>🧾 Conclusión</h2>
+  <h2>🧾 ¿
+    Por que la estructura modular?</h2>
   <p>
     Implementar una arquitectura modular en proyectos web mejora drásticamente la productividad, la colaboración en equipo y la facilidad de mantenimiento. Esta práctica es fundamental para cualquier desarrollador que busque profesionalizar su código y prepararse para entornos de desarrollo reales.
   </p>
